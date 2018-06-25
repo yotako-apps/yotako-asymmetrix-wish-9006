@@ -1,0 +1,30 @@
+.main-wrapper {
+  margin-left: auto;
+  margin-right: auto;
+  width: 1200px
+}
+.NewWireframe1row0 {
+  display: flex;
+  margin-left: 63px;
+  margin-top: 57px;
+  width: 1009px;
+  height: 470px
+}
+.NewWireframe1row0unsupported0 {
+  margin-left: 0;
+  width: 237px;
+  height: 379px
+}
+.NewWireframe1row0unsupported1 {
+  display: flex;
+  margin-left: 65px;
+  width: 707px;
+  height: 100%;
+  flex-direction: column
+}
+.NewWireframe1row0unsupported1unsupported2 {
+  margin-left: 22px;
+  margin-top: 85px;
+  width: 76px;
+  height: 76px
+}
